@@ -1,0 +1,18 @@
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "By5-kh-Y5t"; */
+"By5-kh-Y5t.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "getLanguage"; ObjectID = "Msy-al-NIT"; */
+"Msy-al-NIT.normalTitle" = "getLanguage";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "QSm-AD-k5S"; */
+"QSm-AD-k5S.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "中文"; ObjectID = "fgj-Oz-GhE"; */
+"fgj-Oz-GhE.normalTitle" = "中文";
+
+/* Class = "IBUIButton"; normalTitle = "English"; ObjectID = "qbb-ao-wfe"; */
+"qbb-ao-wfe.normalTitle" = "English";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "wU1-jz-G1k"; */
+"wU1-jz-G1k.text" = "Label";
